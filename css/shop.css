@@ -49,5 +49,8 @@ table {
 
 .btn-danger {
     width: 10%;
+    font-size: medium;
+    text-align: center;
+    border-radius: 5%;
 
 }
